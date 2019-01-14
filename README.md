@@ -11,6 +11,7 @@ The tools used for this app are:
 - Mocha/Chai for testing with NYC for coverage reporting
 - eslint for quality
 
+[The generated docs for the API can be found here.](https://ocularrhythm.github.io/clue-server/)
 
 ## Getting Started
 
