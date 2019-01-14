@@ -1,0 +1,49 @@
+{
+    "name": "clue-server",
+    "version": "0.8.1",
+    "private": true,
+    "scripts": {
+        "start": "node ./bin/www",
+        "pretest": "mongodb-runner start",
+        "test": "set NODE_ENV=development && ./node_modules/.bin/nyc --reporter=lcov mocha --timeout 10000 || exit 0",
+        "posttest": "mongodb-runner stop",
+        "docs": "apidoc -i components/ -o docs/",
+        "lint": "./node_modules/.bin/eslint */* --format table exit"
+    },
+    "dependencies": {
+        "bcryptjs": "2.4.3",
+        "body-parser": "1.18.2",
+        "compression": "1.7.1",
+        "cookie-parser": "1.4.3",
+        "debug": "2.6.9",
+        "env-loader": "0.0.3",
+        "express": "4.16.3",
+        "express-mongo-sanitize": "1.3.2",
+        "helmet": "3.9.0",
+        "jsonwebtoken": "8.1.0",
+        "lodash": "4.17.4",
+        "moment": "2.19.3",
+        "mongodb": "2.2.33",
+        "mongoose": "4.13.1",
+        "morgan": "1.9.0",
+        "winston": "3.0.0-rc1"
+    },
+    "devDependencies": {
+        "api-doc-generator": "0.0.2",
+        "chai": "^4.1.2",
+        "chai-http": "^3.0.0",
+        "eslint": "^4.12.1",
+        "eslint-config-airbnb": "^16.1.0",
+        "eslint-plugin-import": "^2.8.0",
+        "eslint-plugin-jsx-a11y": "^6.0.2",
+        "eslint-plugin-mocha": "^4.11.0",
+        "eslint-plugin-react": "^7.5.1",
+        "eslint-plugin-security": "^1.4.0",
+        "mocha": "^4.0.1",
+        "mongodb-runner": "^3.6.1",
+        "nyc": "^11.3.0"
+    },
+    "engines": {
+        "node": "9.10.1"
+    }
+}

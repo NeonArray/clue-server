@@ -1,0 +1,153 @@
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"status":404,"message":"No events found.","isOperational":true,"level":"error"}
+{"status":404,"message":"An event with that ID could not be found.","isOperational":true,"level":"error"}
+{"status":422,"message":"The resource ID is of an incorrect length, should be 12 or 24 characters.","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":400,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":400,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"status":404,"message":"No events found.","isOperational":true,"level":"error"}
+{"status":404,"message":"An event with that ID could not be found.","isOperational":true,"level":"error"}
+{"status":422,"message":"The resource ID is of an incorrect length, should be 12 or 24 characters.","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"status":404,"message":"No events found.","isOperational":true,"level":"error"}
+{"status":404,"message":"An event with that ID could not be found.","isOperational":true,"level":"error"}
+{"status":422,"message":"The resource ID is of an incorrect length, should be 12 or 24 characters.","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"status":404,"message":"No events found.","isOperational":true,"level":"error"}
+{"status":404,"message":"An event with that ID could not be found.","isOperational":true,"level":"error"}
+{"status":422,"message":"The resource ID is of an incorrect length, should be 12 or 24 characters.","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"status":404,"message":"No events found.","isOperational":true,"level":"error"}
+{"status":404,"message":"An event with that ID could not be found.","isOperational":true,"level":"error"}
+{"status":422,"message":"The resource ID is of an incorrect length, should be 12 or 24 characters.","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"status":404,"message":"No events found.","isOperational":true,"level":"error"}
+{"status":404,"message":"An event with that ID could not be found.","isOperational":true,"level":"error"}
+{"status":422,"message":"The resource ID is of an incorrect length, should be 12 or 24 characters.","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"status":404,"message":"No events found.","isOperational":true,"level":"error"}
+{"status":404,"message":"An event with that ID could not be found.","isOperational":true,"level":"error"}
+{"status":422,"message":"The resource ID is of an incorrect length, should be 12 or 24 characters.","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"status":404,"message":"No events found.","isOperational":true,"level":"error"}
+{"status":404,"message":"An event with that ID could not be found.","isOperational":true,"level":"error"}
+{"status":422,"message":"The resource ID is of an incorrect length, should be 12 or 24 characters.","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"status":404,"message":"No events found.","isOperational":true,"level":"error"}
+{"status":404,"message":"An event with that ID could not be found.","isOperational":true,"level":"error"}
+{"status":422,"message":"The resource ID is of an incorrect length, should be 12 or 24 characters.","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"status":404,"message":"No events found.","isOperational":true,"level":"error"}
+{"status":404,"message":"An event with that ID could not be found.","isOperational":true,"level":"error"}
+{"status":422,"message":"The resource ID is of an incorrect length, should be 12 or 24 characters.","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"status":404,"message":"No events found.","isOperational":true,"level":"error"}
+{"status":404,"message":"An event with that ID could not be found.","isOperational":true,"level":"error"}
+{"status":422,"message":"The resource ID is of an incorrect length, should be 12 or 24 characters.","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":["Path `message` is required.","Path `date` is required.","Path `level` is required.","Path `logger` is required."],"isOperational":true,"level":"error"}
+{"status":404,"message":"No events found.","isOperational":true,"level":"error"}
+{"status":404,"message":"An event with that ID could not be found.","isOperational":true,"level":"error"}
+{"status":422,"message":"The resource ID is of an incorrect length, should be 12 or 24 characters.","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"status":400,"message":"Missing required params (client, username, secret)","isOperational":true,"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"expose":true,"statusCode":400,"status":400,"body":"username=mochaaa%20awesome&secret=moch%20test%20","type":"entity.parse.failed","level":"error"}
+{"expose":true,"statusCode":400,"status":400,"body":"username=admin&secret=moch%20test%20","type":"entity.parse.failed","level":"error"}
+{"expose":true,"statusCode":400,"status":400,"body":"username=admin&secret=moch%20test%20","type":"entity.parse.failed","level":"error"}
+{"expose":true,"statusCode":400,"status":400,"body":"username=admin&secret=estt&client=no_no","type":"entity.parse.failed","level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"message":{"status":401,"message":"","isOperational":true},"level":"error"}
+{"status":401,"message":"Unauthorized Access","isOperational":true,"level":"error"}
+{"status":400,"message":["Path `severity` is required.","Path `action` is required.","Path `trigger` is required.","Path `details` is required."],"isOperational":true,"level":"error"}
+{"status":400,"message":["Path `meta` is required.","Path `details` is required."],"isOperational":true,"level":"error"}
+{"status":400,"message":["Path `meta` is required.","Path `details` is required."],"isOperational":true,"level":"error"}
+{"expose":true,"statusCode":400,"status":400,"body":"logger=ClueUserLogger&level=info&date=2018-05-21+19%3A29%3A35&message=Logged+out&occasionsID=df26d5624f78966994b38897554e855b&initiator=other&client=leapfrogjump.com&meta%5B_message_key%5D=user_logged_out&meta%5B_server_remote_addr%5D=89.238.134.5&meta%5B_server_http_referer%5D=http%3A%2F%2Fleapfrogjump.com%2F","type":"entity.parse.failed","level":"error"}
+{"expose":true,"statusCode":400,"status":400,"body":"logger=ClueUserLogger&level=info&date=2018-05-21+19%3A29%3A40&message=Logged+out&occasionsID=df26d5624f78966994b38897554e855b&initiator=other&client=leapfrogjump.com&meta%5B_message_key%5D=user_logged_out&meta%5B_server_remote_addr%5D=89.238.134.5&meta%5B_server_http_referer%5D=http%3A%2F%2Fleapfrogjump.com%2F","type":"entity.parse.failed","level":"error"}
+{"expose":true,"statusCode":400,"status":400,"body":"logger=ClueUserLogger&level=info&date=2018-05-21+19%3A29%3A45&message=Logged+out&occasionsID=df26d5624f78966994b38897554e855b&initiator=other&client=leapfrogjump.com&meta%5B_message_key%5D=user_logged_out&meta%5B_server_remote_addr%5D=89.238.134.5&meta%5B_server_http_referer%5D=http%3A%2F%2Fleapfrogjump.com%2F","type":"entity.parse.failed","level":"error"}

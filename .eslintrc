@@ -1,0 +1,22 @@
+{
+  "extends": [
+    "plugin:security/recommended",
+    "airbnb"
+  ],
+  "plugins": [
+    "mocha",
+    "security"
+  ],
+  "env": {
+    "node": true,
+    "mocha": true
+  },
+  "rules": {
+    "quotes": ["error", "single"],
+    "indent": ["error", 4, { "SwitchCase": 1 }],
+    "no-unused-expressions": "off",
+    "no-underscore-dangle": "off",
+    "quote-props": "off",
+    "padded-blocks": "off"
+  }
+}
