@@ -1,6 +1,6 @@
 # "Clue" Server
 
-This node server is part of the larger "Clue" app, which is an event logger for WordPress. I believe that this server is partially incomplete, but should be functional in its current state.
+This node server is part of the larger "Clue" app, which is an [event logger for WordPress](https://github.com/ocularrhythm/clue-client). I believe that this server is partially incomplete, but should be functional in its current state.
 
 As of writing this, I have not touched the code in this app in over a year so I am somewhat fuzzy on some of the details. However, I built this wholly aware that I wanted to "set and forget," so should be easy to reason about if given a little time to read through the code. 
 
